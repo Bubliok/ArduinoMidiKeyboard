@@ -6,6 +6,7 @@ This is sketch does not use MIDI port as a part of the circuit. Instead, the MID
 [Loop MIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
 Made for a 54 key scan matrix (8x7). For figuring out your scan matrix you can use the tutorial [here](https://www.instructables.com/Figuring-out-a-Key-Matrix-Scan-Matrix/). 74HC595 shift register is required. 
 *Connect everything using this diagram:*
+
 ![](https://content.instructables.com/ORIG/FUD/QBS8/KHOUFSIW/FUDQBS8KHOUFSIW.png?auto=webp&frame=1&width=483&fit=bounds&md=684afa5a35acf5695aa4037d13dfbf4e)
 
 Have in mind whether you have pull up or down circuit configuration.
